@@ -29,7 +29,7 @@ const firebaseConfig = {
   appId: "1:447432493955:web:a09e0b88f6206bdcb504b6"
 };
 
-// Client-side initialization only
+// Client-side Firebase initialization
 export const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
 export const auth = getAuth(app);
 export const rtdb = getDatabase(app);
