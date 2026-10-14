@@ -20,7 +20,7 @@ import {
 } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCjAR2gK_UmWqh400s_3swCga9TO1c7ACw",
+  apiKey: "AIzaSyCjAR2gK_UmWqh400s_3swCGa9TO1c7ACw",
   authDomain: "msa-dawah-workshop-game.firebaseapp.com",
   databaseURL: "https://msa-dawah-workshop-game-default-rtdb.firebaseio.com",
   projectId: "msa-dawah-workshop-game",
